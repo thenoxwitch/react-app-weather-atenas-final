@@ -1,0 +1,16 @@
+.Search {
+  font-family: "Pixelify Sans", cursive;
+  border-radius: 20px;
+}
+
+p1 {
+  font-family: "Pixelify Sans", cursive;
+  line-height: 30px;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  font-weight: bold;
+  font-family: "Pixelify Sans", cursive;
+}
