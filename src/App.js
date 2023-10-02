@@ -14,6 +14,7 @@ export default function App() {
           <img
             src="https://cdn-icons-png.flaticon.com/128/365/365865.png"
             width="25px"
+            alt="little rainbow"
           />
         </div>
       </nav>
@@ -24,6 +25,7 @@ export default function App() {
           class="rainbow-gif"
           src="https://media.giphy.com/media/huyIAhSLfOeCk/giphy.gif"
           width="50px"
+          alt="image-rainbow"
         />
         <br />
 
@@ -38,6 +40,7 @@ export default function App() {
         <a
           href="https://github.com/thenoxwitch/weather-app-shecodes-project"
           target="_blank"
+          rel="noreferrer"
         >
           Open Source Code
         </a>
